@@ -3,3 +3,6 @@ Hello world
 I am kolawole and presently stradling through a number of things in my mind. 
 
 HOPING TO GET OUTOF HERE SOON.
+
+i have been learning how to push my first tag to git up
+
